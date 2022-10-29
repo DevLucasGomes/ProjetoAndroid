@@ -50,7 +50,7 @@ header> h1 {
 }
 
 header > p {
-    margin: auto;
+    margin-left: 100px;
     margin-top: 30px;
     font-size: 1.2em;
     margin-bottom: 30px;
