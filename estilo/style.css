@@ -50,7 +50,7 @@ header> h1 {
 }
 
 header > p {
-    margin: auto;
+    margin-left: 500px;
     font-size: 1.2em;
     max-width: 500px ;
     padding-left: 10px;
