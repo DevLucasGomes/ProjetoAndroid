@@ -49,8 +49,8 @@ header> h1 {
     font-size: 3em;
 }
 
-header > p {
-    margin-left: 500px;
+header > p.head {
+    margin: auto;
     font-size: 1.2em;
     max-width: 500px ;
     padding-left: 10px;
